@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 Currently working on Android based payment solutions on point-of-sale devices
+- 🔭 Currently working as engineering manager on Android based payment solutions on point-of-sale devices
 - 🎓 Graduated in System's information from Federal Institute of Espírito Santo
 - 🌱 Corrently learning about home automation and it's frameworks to do it in my 🏠
 - 😄 He/Him

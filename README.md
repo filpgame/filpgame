@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 Currently working as staff swe on Android based payment solutions on point-of-sale devices
+- 🔭 Currently working as Staff SWE on Android based payment solutions for point-of-sale devices
 - 🎓 Graduated in System's information from Federal Institute of Espírito Santo
-- 🌱 Currently learning about homelab and home automation and it's frameworks to do it in my 🏠
+- 🌱 Currently learning about homelab, home automation and it's frameworks to do it in my 🏠
 - 😄 He/Him
 
 ![](https://komarev.com/ghpvc/?username=filpgame&color=green)
